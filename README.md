@@ -1,12 +1,18 @@
 ## 👋 Hi there, I'm Temiloluwa Afolabi – Frontend Developer | WordPress Expert | UI Enthusiast
 
-I'm a passionate Frontend Developer with experience building responsive, interactive, and user-friendly websites. I specialize in:
-
 🚀 Technologies & Tools:
 
 Frontend: HTML, CSS, Bootstrap, Tailwind, JavaScript, Vue.js
 Backend: PHP
 CMS: WordPress
+
+<p>💼 Collaborated Projects:</p>
+<ul>
+    <li>📌 <strong>Whimsical Events Website</strong> – <a href="https://whimsicalevents.ng/" target="_blank">Visit Site</a></li>
+    <li>📌 <strong>Amerigroup Home Health (THOTH Technologies)</strong> – <a href="https://amerigrouphomehealthagencyllc.com/" target="_blank">Visit Site</a></li>
+    <li>📌 <strong>Amborgerp (ERP System – Employee & Loan Management)</strong> – <a href="https://www.amborgerp.com/login" target="_blank">Visit Site</a></li>
+    <li>📌 <strong>BanexMall (Gallery Section)</strong> – <a href="https://banexmall.com/gallery/" target="_blank">View Here</a></li>
+</ul>
 
 🔭 I’m currently working on:
 Frontend development projects using Vue.js, JavaScript, and WordPress
@@ -23,6 +29,7 @@ Open-source projects related to frontend development and UI/UX
 WordPress and PHP-based website development
 Innovative projects that improve web responsiveness and user experience
 💻 Let’s Connect!
+
 
 <!--
 **Temmy6710/Temmy6710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
