@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Temiloluwa Afolabi – Frontend Developer | WordPress Expert | UI Enthusiast
 
-Welcome to my GitHub! I'm a passionate Frontend Developer with experience building responsive, interactive, and user-friendly websites. I specialize in:
+I'm a passionate Frontend Developer with experience building responsive, interactive, and user-friendly websites. I specialize in:
 
 🚀 Technologies & Tools:
 
@@ -22,17 +22,7 @@ Optimizing performance and accessibility in web applications
 Open-source projects related to frontend development and UI/UX
 WordPress and PHP-based website development
 Innovative projects that improve web responsiveness and user experience
-
-📌 Projects & Contributions:
-
-Developed websites for companies like Amerigroup Home Health, Banex Mall, Whimsical Events, and Mclumens Limited
-Assisted in form creation, content uploads, and responsiveness improvements for Amborgerp (ERP system)
-Designed and implemented interactive lightbox galleries, landing pages, and employee management features
-
 💻 Let’s Connect!
-I’m always eager to collaborate and learn new technologies. Check out my repositories, and feel free to connect!
-
-
 
 <!--
 **Temmy6710/Temmy6710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
