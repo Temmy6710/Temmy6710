@@ -11,7 +11,6 @@ CMS: WordPress
     <li>📌 <strong>Whimsical Events Website</strong> – <a href="https://whimsicalevents.ng/">Visit Site</a></li>
     <li>📌 <strong>Amerigroup Home Health (THOTH Technologies)</strong> – <a href="https://amerigrouphomehealthagencyllc.com/">Visit Site</a></li>
     <li>📌 <strong>Amborgerp (ERP System – Employee & Loan Management)</strong> – <a href="https://www.amborgerp.com/login">Visit Site</a></li>
-    <li>📌 <strong>BanexMall (Gallery Section)</strong> – <a href="https://banexmall.com/gallery/">View Here</a></li>
 </ul>
 
 🔭 I’m currently working on:
