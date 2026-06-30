@@ -1,6 +1,4 @@
-## 👋 Hi there, I'm Temiloluwa Afolabi
-
-**Junior Product Manager** based in Abuja, Nigeria — transitioning from web development into product, with 2+ years shipping user-facing digital products.
+## 👋 Hi there, I'm Temiloluwa Afolabi — **Junior Product Manager** based in Nigeria
 
 🚀 Technologies & Tools:
 
