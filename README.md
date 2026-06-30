@@ -17,14 +17,14 @@
     <li>-Also do: requirements gathering, user story writing, sprint planning, QA</li>
 </ul>
 
-🌱 I’m currently learning:
+🌱 I’m currently learning:<br>
 User Mapping
 
 
-👯 I’m looking to collaborate on:
+👯 I’m looking to collaborate on:<br>
 Open-source projects related to mobile apps / web development
 
-💻 Let’s Connect!
+💻 Let’s Connect!<br>
 <a href="http://linkedin.com/in/temiloluwa-afolabi-06400b359">LinkedIn</a>
 
 
