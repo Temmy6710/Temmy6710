@@ -9,10 +9,10 @@ CMS: WordPress
 <p>💼 Collaborated Projects:</p>
 <ul>
     <li>📌 <strong>Amerigroup Home Health (THOTH Technologies)</strong> – <a href="https://amerigrouphomehealthagencyllc.com/">Visit Site</a></li>
-    
-    <li>📌 <strong>Cafe Bex — built at BEX-IT Digital Solutions</strong> – <a href="https://cafebex.com/">Visit Site</a></li>
+    A multi-page WordPress site for a café and coworking space in Panama — menu, online shop, about, and contact — built around the brand's dual identity as a place to work, eat, and slow down.
 </ul>
 <ul>
+    <li>📌 <strong>Cafe Bex — built at BEX-IT Digital Solutions</strong> – <a href="https://cafebex.com/">Visit Site</a></li>
 </ul>
 
 🔭 I’m currently working on:
