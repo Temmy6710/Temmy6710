@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Temiloluwa Afolabi — **Junior Product Manager** based in Nigeria
+## 👋 Hi there, I'm Temiloluwa Afolabi — Frontend Developer moving into Product Management, based in Nigeria.
 
 
 <p>💼 Collaborated Projects:</p>
